@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE liga SYSTEM "partidos3.dtd">
+<liga>
+ <partido local="Moralo" visitante="Talayuela" goleslocal="1" golesvisitante="0"></partido>
+ <partido local="Rosalejo" visitante="Jarandilla" goleslocal="1" golesvisitante="1"></partido>
+ <partido local="Tiétar" visitante="Millanes" goleslocal="2" golesvisitante="2"></partido>
+</liga>

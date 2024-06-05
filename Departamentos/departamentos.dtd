@@ -1,0 +1,10 @@
+<!ELEMENT departamentos (departamento+)>
+<!ELEMENT departamento (nomdept, responsable, personas)>
+<!ELEMENT nomdept (#PCDATA)>
+<!ELEMENT responsable (nombre, apellidos, email, extension)>
+<!ELEMENT personas (persona+)>
+<!ELEMENT persona (nombre, apellidos, email, extension)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT extension (#PCDATA)>

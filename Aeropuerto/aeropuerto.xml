@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE panel SYSTEM "aeropuerto.dtd">
+<panel>
+  <nombreAeropuerto>Madrid-Barajas</nombreAeropuerto>
+  <vuelos>
+    <vuelo codigo="V22" estado="R">
+      <diario/>
+      <origen>Madrid</origen>
+      <destino>Sevilla</destino>
+      <horaSalida>9:30</horaSalida>
+      <horaLlegada>11:00</horaLlegada>
+    </vuelo>
+    <vuelo codigo="V23" estado="C">
+      <origen>Madrid</origen>
+      <destino>Tenerife</destino>
+      <horaSalida>10:15</horaSalida>
+      <horaLlegada>12:15</horaLlegada>
+    </vuelo>
+  </vuelos>
+  <fechaPanel>20/02/2024</fechaPanel>
+</panel>

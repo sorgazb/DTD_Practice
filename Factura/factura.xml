@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE facturas SYSTEM "factura.dtd">
+<facturas>
+  <factura numero="27" fecha="18/12/2013">
+    <datosEmisor>
+      <nombreEmisor>Librería Pérez</nombreEmisor>
+      <cifEmisor>44555666B</cifEmisor>
+      <telefonoEmisor>777888999</telefonoEmisor>
+    </datosEmisor>
+    <datosCliente>
+      <nombre>Biblioteca Todolibros</nombre>
+      <cif>33111222A</cif>
+      <telefono>333999444</telefono>
+    </datosCliente>
+    <detalleFactura importe="85">
+      <linea codigo="AW7" tipo="Libro">
+        <descripcion>Analítica Web 2.0</descripcion>
+        <cantidad>1</cantidad>
+        <oferta/>
+        <pvp>25</pvp>
+      </linea>
+      <linea codigo="CP5" tipo="DVD">
+        <descripcion>Curso de HTML</descripcion>
+        <cantidad>2</cantidad>
+        <pvp>30</pvp>
+      </linea>
+    </detalleFactura>
+  </factura>
+</facturas>

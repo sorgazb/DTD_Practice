@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE liga SYSTEM "partidos.dtd">
+<liga>
+ <partido>
+ <local>Moralo</local>
+ <visitante>Talayuela</visitante>
+ <goleslocal>1</goleslocal>
+ <golesvisitante>0</golesvisitante>
+ </partido>
+ 
+ <partido>
+ <local>Rosalejo</local>
+ <visitante>Jarandilla</visitante>
+ <goleslocal>1</goleslocal>
+ <golesvisitante>1</golesvisitante>
+ </partido>
+ 
+ <partido>
+ <local>Tiétar</local>
+ <visitante>Millanes</visitante>
+ <goleslocal>2</goleslocal>
+ <golesvisitante>1</golesvisitante>
+ </partido>
+</liga>

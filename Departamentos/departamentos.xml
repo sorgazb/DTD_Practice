@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE departamentos SYSTEM "departamentos.dtd">
+<departamentos>
+  <departamento>
+    <nomdept>DEPARTAMENTO 1</nomdept>
+    <responsable>
+      <nombre>Sergio</nombre>
+      <apellidos>Orgaz Bravo</apellidos>
+      <email>sorgazb01@educarex.es</email>
+      <extension>546</extension>
+    </responsable>
+    <personas>
+      <persona>
+        <nombre>Pepe</nombre>
+        <apellidos>Martín García</apellidos>
+        <email>pepemartin@gmail.com</email>
+        <extension>612</extension>
+      </persona>
+      <persona>
+        <nombre>Oscar</nombre>
+        <apellidos>Rodriguez García</apellidos>
+        <email>oscarrodriguez@gmail.com</email>
+        <extension>316</extension>
+      </persona>
+    </personas>
+  </departamento>
+    <departamento>
+    <nomdept>DEPARTAMENTO 3</nomdept>
+    <responsable>
+      <nombre>Raúl</nombre>
+      <apellidos>Sanchez Mora</apellidos>
+      <email>rsanchez@gmail.com</email>
+      <extension>90</extension>
+    </responsable>
+    <personas>
+      <persona>
+        <nombre>Miriam</nombre>
+        <apellidos>García Gomez</apellidos>
+        <email>miriamgg@gmail.com</email>
+        <extension>12</extension>
+      </persona>
+      <persona>
+        <nombre>Laura</nombre>
+        <apellidos>Acedo Camacho</apellidos>
+        <email>lacedoc@gmail.com</email>
+        <extension>16</extension>
+      </persona>
+    </personas>
+  </departamento>
+</departamentos>
